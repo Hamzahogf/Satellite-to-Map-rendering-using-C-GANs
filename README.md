@@ -11,6 +11,6 @@ demonstrate that sophisticated architectural choices significantly impact transl
 also explores the effects of different normalization techniques, loss functions, and training strategies on
 model convergence and output quality.
 
-![Result of the model](result of the model.png)
+![Result of the model](result_of_the_model.png)
 
 -- full raport paper available on: https://drive.google.com/file/d/1480JfCwiwIkwS0HehhVq8nj_r6KZDouO/view?usp=drive_link
