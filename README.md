@@ -10,3 +10,5 @@ discriminators. Through extensive experimentation with limited training data (1,
 demonstrate that sophisticated architectural choices significantly impact translation quality. The study
 also explores the effects of different normalization techniques, loss functions, and training strategies on
 model convergence and output quality.
+
+-- full raport paper available on: https://drive.google.com/file/d/1480JfCwiwIkwS0HehhVq8nj_r6KZDouO/view?usp=drive_link
