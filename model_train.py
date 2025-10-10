@@ -18,7 +18,7 @@ from visdom import Visdom
 from tqdm import tqdm
 import matplotlib.pyplot as plt
 
-# 
+
 # ==================== DATALOADER ======================
 class GANDataset(Dataset):
     def __init__(self, rootA, rootB, transform=None, unaligned=False, device=None, test=False):
