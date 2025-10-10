@@ -19,7 +19,7 @@ from tqdm import tqdm
 import matplotlib.pyplot as plt
 
 
-# ==================== DATALOADER ======================
+# ==================== DATALOADER =====================
 class GANDataset(Dataset):
     def __init__(self, rootA, rootB, transform=None, unaligned=False, device=None, test=False):
         # Natural sorting that handles numbers correctly
