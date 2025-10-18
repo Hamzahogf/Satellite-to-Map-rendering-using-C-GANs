@@ -17,7 +17,7 @@ plt.figure(figsize=(10,6))
 plt.plot(train_G, label="Generator Loss (G)")
 plt.plot(train_D, label="Discriminator Loss (D)")
 plt.plot(train_total, label="Total Loss (G+D)", linestyle="--")
-
+#
 plt.xlabel("Epochs")
 plt.ylabel("Loss")
 plt.title("Training Loss over Epochs")
